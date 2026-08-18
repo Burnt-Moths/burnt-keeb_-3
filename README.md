@@ -11,10 +11,7 @@ how to kinda operate kaikad
 wireing
 organiseing pcbs and makeintg space
 case design
-
-
-logging time
-by screenie 3, approx 3-5 hours spents wrecking over using pins well
-rediid the wireing, was finally happy with it but thertes some sort of odd error now? refer to 30 image screenie, this redo took arond an hour or 2
-
-i started the case. around 30 mins to extrude the case base and import the pcb to this
+oneshape
+how gaskets work
+kinda how keys work
+how keebs work and how matrices work
