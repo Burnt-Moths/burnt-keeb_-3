@@ -1,0 +1,21 @@
+name,amount,inr price (total),usd price (total),link,source
+smd lights,2,~2750,28.25,https://www.ubuy.co.in/productjp/TLZUPDAH6-50pcs-sk6812-mini-e-rgb-same-as-ws2812b-sk6812-3228-pixels-led-chip-individually-addressable-full-color-dc5v?srsltid=AfmBOop5rDhfNpfcuGVecEyQ7GdDRgG9WJU1a-DzkrmNiSBEfV4oHrGVOpA,ubuy
+capicator,1,1.25,0.03,https://robu.in/product/100nf-50v-disc-capacitor/,robu
+raspberry pi,1,399,4.18,https://robu.in/product/raspberry-pi-pico/,robu
+long brass inserts,1,125,1.31,https://robu.in/product/m3x12mm-brass-insert/,robu
+short brass inserts,1,91,0.95,https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/,robu
+oled,1,229,2.4,https://robu.in/product/blue-oled-display-module/,robu
+screws,1,39,0.41,https://robu.in/product/easymech-m3-x-16mm-hex-allen-csk-high-tensile109-black-oxide-screw-dia-3mm-length-16mm/,robu
+encoder,1,58,0.61,https://robu.in/product/hongyan-ec11h-7ce15p1zd15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin-360-degree/,robu
+diodes,100,420,4.4,https://robu.in/product/1n4148-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/,robu
+usb c,1,38,0.4,https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-smd-usb-connectors-rohs/,robu
+anti slip measures ,1,229,2.4,https://www.amazon.in/dp/B0DZ276KL9/?coliid=IETF4OD9G07YY&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S&language=en-US,amazon
+keycaps,1,2676,28,https://www.amazon.in/dp/B0CQLBFVVY/?coliid=I13Z3FND7LCIR4&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_1&language=en-US,amazon
+akko keys,2,4052,42.36,https://www.amazon.in/dp/B0C3H7PR1Z/?coliid=IK0NVWCDOFVKS&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_2&language=en-US,amazon
+wire,1,499,5.3,coliid=IVEC0AZ1A67ZJ&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_3&language=en-US,amazon
+stablizers,1,1547,16.2,https://www.amazon.in/dp/B0CL195BK7/?coliid=I2ZZSEWPP23M59&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_4&language=en-US,amazon
+gasket tape,1,155,1.62,https://www.amazon.in/dp/B0BZSGJLKY/?coliid=I3TPDRKVX3JZII&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_5&language=en-US,amazon
+puller,1,329,3.5,https://www.amazon.in/dp/B0FQHT2XRS/?coliid=I37OU72Q3BZXCJ&colid=1H2MZK0JYY8T8&psc=1&ref_=cm_sw_r_apann_lstpd_WEMAS970F10XEBCXE05S_6&language=en-US,amazon
+pcb,5,900,9.4,n/a (screenie),robu
+plate,1,2195,22.94,n/a (screenie),robu
+total,,16732.25,174.77,,
