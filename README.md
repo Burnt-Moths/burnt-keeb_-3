@@ -9,9 +9,12 @@ i also wish to not use a normal raspberry pi pico as it uses a usb c rather then
 what i actually learnt (updateing as it goes)
 how to kinda operate kaikad
 wireing
-organiseing pcbs and makeintg space
+organizing pcbs and makeintg space
 case design
 oneshape
 how gaskets work
 kinda how keys work
 how keebs work and how matrices work
+also how to 3d model and how to design stuff, with some info on things like raspberry pi's and usb c ports and how to use them
+
+though I decided not to use em, I also learnt about batteries and bluetooth when I was considering adding em
